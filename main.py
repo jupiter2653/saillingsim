@@ -64,7 +64,7 @@ class Simulation(tk.Canvas):
         self.bind("<ButtonRelease-1>", self.onRelease)
 
         self.isMoving = False
-
+        #test
         self.drawSim()
 
 
